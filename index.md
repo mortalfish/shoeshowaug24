@@ -4,7 +4,6 @@ title: "FFANY 08/05/24 - 08/09/24"
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5
-css: "/assets/css/custom.css"
 ---
 
 <style>
