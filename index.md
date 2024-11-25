@@ -196,7 +196,7 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
             <td data-label="Floor">14</td>
         </tr>
         <tr>
-            <td data-label="Brand">Marc Fisher Limited</td>
+            <td data-label="Brand">Marc Fisher Limited / Marc Fisher Core</td>
             <td data-label="Floor">9</td>
         </tr>
         <tr>
