@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "FFANY 08/05/24 - 08/09/24"
+title: "FFANY 12/02/24 - 12/06/24"
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5
@@ -51,7 +51,7 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
             <td data-label="Floor">4</td>
         </tr>
         <tr>
-            <td data-label="Brand">Chainson Footwear<br>Eileen Fisher<br>Moda Spana<br>Pelle Moda<br>Natori<br>Hunter Women's, Men's, Kids<br>Rockport<br>Dunham<br>Cobb Hill<br>Earth Brands<br>Western Chief<br>Chooka<br>Staheekum</td>
+            <td data-label="Brand">Chainson Footwear<br>Eileen Fisher<br>Moda Spana<br>Pelle Moda<br>Natori<br>Kenneth Cole<br>Hunter Women's, Men's, Kids<br>Rockport<br>Dunham<br>Cobb Hill<br>Earth Brands<br>Western Chief<br>Chooka<br>Staheekum</td>
             <td data-label="Floor">5</td>
         </tr>
         <tr>
@@ -63,11 +63,15 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
             <td data-label="Floor">8</td>
         </tr>
         <tr>
-            <td data-label="Brand">Tommy Hilfiger<br>Calvin Klein<br>Easy Spirit<br>Marc Fisher Limited<br>Unisa</td>
+            <td data-label="Brand">Tommy Hilfiger<br>Calvin Klein<br>Marc Fisher Core<br>Marc Fisher Limited<br>Unisa</td>
             <td data-label="Floor">9</td>
         </tr>
         <tr>
-            <td data-label="Brand">Indigo Road<br>Bandolino<br>Nine West<br>Guess by Marciano<br>Marc Fisher<br>G by Guess<br>Airwalk</td>
+            <td data-label="Brand">Guess Brands</td>
+            <td data-label="Floor">12</td>
+        </tr>
+        <tr>
+            <td data-label="Brand">Indigo Road<br>Bandolino<br>Nine West<br>Marc Fisher<br>Easy Spirit</td>
             <td data-label="Floor">14</td>
         </tr>
         <tr>
@@ -96,19 +100,19 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
             <td data-label="Floor">14</td>
         </tr>
         <tr>
-            <td data-label="Brand">Candice Cooper</td>
-            <td data-label="Floor">6</td>
-        </tr>
-        <tr>
             <td data-label="Brand">Calvin Klein</td>
             <td data-label="Floor">9</td>
+        </tr>
+        <tr>
+            <td data-label="Brand">Candice Cooper</td>
+            <td data-label="Floor">6</td>
         </tr>
         <tr>
             <td data-label="Brand">Chainson Footwear</td>
             <td data-label="Floor">5</td>
         </tr>
         <tr>
-            <td data-label="Brand">Chinese Laundry & 42 Gold<br>CL by Laundry<br>Dirty Laundry</td>
+            <td data-label="Brand">Chinese Laundry<br>CL by Laundry<br>Dirty Laundry</td>
             <td data-label="Floor">4</td>
         </tr>
         <tr>
@@ -133,16 +137,16 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
         </tr>
         <tr>
             <td data-label="Brand">Easy Spirit</td>
-            <td data-label="Floor">9</td>
+            <td data-label="Floor">14</td>
         </tr>
         <tr>
             <td data-label="Brand">Eileen Fisher</td>
             <td data-label="Floor">5</td>
         </tr>
-				<tr>
-						<td data-label="Brand">Falc USA</td>
-						<td data-label="Floor">6</td>
-				</tr>
+        <tr>
+            <td data-label="Brand">Falc USA</td>
+            <td data-label="Floor">6</td>
+        </tr>
         <tr>
             <td data-label="Brand">fitflop</td>
             <td data-label="Floor">6</td>
@@ -152,8 +156,8 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
             <td data-label="Floor">6</td>
         </tr>
         <tr>
-            <td data-label="Brand">G by Guess / Guess by Marciano</td>
-            <td data-label="Floor">14</td>
+            <td data-label="Brand">Guess Brands</td>
+            <td data-label="Floor">12</td>
         </tr>
         <tr>
             <td data-label="Brand">Hunter Women's, Men's, Kids</td>
@@ -178,6 +182,10 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
         <tr>
             <td data-label="Brand">Johnston & Murphy Women's</td>
             <td data-label="Floor">6</td>
+        </tr>
+        <tr>
+            <td data-label="Brand">Kenneth Cole</td>
+            <td data-label="Floor">5</td>
         </tr>
         <tr>
             <td data-label="Brand">Lucky Brand Footwear</td>
