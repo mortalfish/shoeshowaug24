@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "FFANY 12/02/24 - 12/06/24"
+title: "FFANY 6/2/25 - 6/6/25"
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5
@@ -57,6 +57,10 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
         <tr>
             <td data-label="Brand">fitflop<br>Falc USA<br>Voile Blanche<br>Flower Mountain<br>Candice Cooper<br>W6YZ - Just Say Wizz<br>Naturino<br>Falcotto<br>Johnston & Murphy<br>Johnston & Murphy Women's<br>Johnston & Murphy Collection</td>
             <td data-label="Floor">6</td>
+        </tr>
+        <tr>
+            <td data-label="Brand">Ked's</td>
+            <td data-label="Floor">8</td>
         </tr>
         <tr>
             <td data-label="Brand">Vince Camuto Men's & Women's</td>
@@ -182,6 +186,10 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
         <tr>
             <td data-label="Brand">Johnston & Murphy Women's</td>
             <td data-label="Floor">6</td>
+        </tr>
+        <tr>
+            <td data-label="Brand">Keds</td>
+            <td data-label="Floor">8</td>
         </tr>
         <tr>
             <td data-label="Brand">Kenneth Cole</td>
