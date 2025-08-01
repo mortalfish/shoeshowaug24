@@ -47,14 +47,14 @@ Welcome to the FFANY Shoe Show! We're excited to have you here. This page provid
     </thead>
     <tbody>
         <tr><td data-label="Brand">Titan Industries (Badgley Mischka, L'agence, Marchesa)</td><td data-label="Floor">3</td></tr>
-        <tr><td data-label="Brand">Chinese Laundry & 42 Gold<br>CL by Laundry<br>Dirty Laundry<br>Creative International</td><td data-label="Floor">4</td></tr>
-        <tr><td data-label="Brand">Chainson Footwear<br>Eileen Fisher<br>Moda Spana<br>Pelle Moda<br>Natori<br>Kenneth Cole<br>Hunter Women's, Men's, Kids<br>Rockport<br>Dunham<br>Cobb Hill<br>Earth Brands</td><td data-label="Floor">5</td></tr>
-        <tr><td data-label="Brand">fitflop<br>Falc USA<br>Voile Blanche<br>Flower Mountain<br>Flower Mountain Kids<br>Flower Mountain Women’s<br>Flower Mountain Men’s<br>Candice Cooper<br>W6YZ - Just Say Wizz<br>W6YZ Women’s<br>W6YZ Men’s<br>Naturino<br>Falcotto<br>Johnston & Murphy<br>Johnston & Murphy Women's<br>Johnston & Murphy Collection</td><td data-label="Floor">6</td></tr>
+        <tr><td data-label="Brand">Chinese Laundry & 42 Gold<br>CL by Laundry<br>Creative International<br>Dirty Laundry</td><td data-label="Floor">4</td></tr>
+        <tr><td data-label="Brand">Chainson Footwear<br>Cobb Hill<br>Dunham<br>Earth Brands<br>Eileen Fisher<br>Hunter Women's, Men's, Kids<br>Kenneth Cole<br>Moda Spana<br>Natori<br>Pelle Moda<br>Rockport</td><td data-label="Floor">5</td></tr>
+        <tr><td data-label="Brand">Candice Cooper<br>Falc USA<br>Falcotto<br>fitflop<br>Flower Mountain<br>Flower Mountain Kids<br>Flower Mountain Men’s<br>Flower Mountain Women’s<br>Johnston & Murphy<br>Johnston & Murphy Collection<br>Johnston & Murphy Women's<br>Naturino<br>Voile Blanche<br>W6YZ - Just Say Wizz<br>W6YZ Men’s<br>W6YZ Women’s</td><td data-label="Floor">6</td></tr>
         <tr><td data-label="Brand">Keds</td><td data-label="Floor">8</td></tr>
         <tr><td data-label="Brand">Vince Camuto Men's & Women's</td><td data-label="Floor">8</td></tr>
-        <tr><td data-label="Brand">Tommy Hilfiger<br>Calvin Klein<br>Marc Fisher Core<br>Marc Fisher Limited<br>Marc Fisher<br>Unisa</td><td data-label="Floor">9</td></tr>
+        <tr><td data-label="Brand">Calvin Klein<br>Marc Fisher<br>Marc Fisher Core<br>Marc Fisher Limited<br>Tommy Hilfiger<br>Unisa</td><td data-label="Floor">9</td></tr>
         <tr><td data-label="Brand">Guess Brands</td><td data-label="Floor">12</td></tr>
-        <tr><td data-label="Brand">Indigo Road<br>Bandolino<br>Nine West<br>Easy Spirit</td><td data-label="Floor">14</td></tr>
+        <tr><td data-label="Brand">Bandolino<br>Easy Spirit<br>Indigo Road<br>Nine West</td><td data-label="Floor">14</td></tr>
         <tr><td data-label="Brand">Jessica Simpson<br>Lucky Brand Footwear</td><td data-label="Floor">15</td></tr>
     </tbody>
 </table>
